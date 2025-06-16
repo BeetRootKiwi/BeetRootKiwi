@@ -1,8 +1,4 @@
 I’m @BeetRootKiwi 🌱
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me ...
 
 <!---
 BeetRootKiwi/BeetRootKiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
